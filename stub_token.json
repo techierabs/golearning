@@ -1,0 +1,11 @@
+{
+"refresh_token_expires_in": "0",
+"api_product_list_json": ["eda2-volte"],
+"organization_name": "apigwppt",
+"token_type": "BearerToken",
+"issued_at": "1687147649070",
+"client_id": "U9AC66e9YFyI1yqaXgUF8H6b9wUN1TLk",
+"access_token": "zBC90HhCGmGlaMBWeZAai2s3za5j",
+"expires_in": "3599",
+"status": "approved"
+}
